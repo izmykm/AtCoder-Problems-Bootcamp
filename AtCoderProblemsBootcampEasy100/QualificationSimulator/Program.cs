@@ -1,12 +1,11 @@
 ﻿using System;
 
-namespace SolveCS
+namespace QualificationSimulator
 {
     class Program
     {
         static void Main(string[] args)
         {
-            int a = 20;
             Console.WriteLine("Hello World!");
         }
     }

@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("SolveCS")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("TaxRate_4")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("SolveCS")]
-[assembly: System.Reflection.AssemblyTitleAttribute("SolveCS")]
+[assembly: System.Reflection.AssemblyProductAttribute("TaxRate_4")]
+[assembly: System.Reflection.AssemblyTitleAttribute("TaxRate_4")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment クラスによって生成されました。
