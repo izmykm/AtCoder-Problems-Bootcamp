@@ -1,1 +1,9 @@
 node_modules
+*.json
+*.py
+*.dll
+*.exe
+*.pdb
+*.cache
+*.props
+*.txt
